@@ -77,13 +77,6 @@ currently_working_on: Multiple SaaS & E-commerce Platforms
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiaretinxt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiaretinxt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiaretinxt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
