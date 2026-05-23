@@ -103,11 +103,11 @@ currently_working_on: Multiple SaaS & E-commerce Platforms
 ## Featured Projects
 
 - **[KartComet](https://github.com/saiaretinxt/kartcomet)** — A full-featured SaaS E-commerce System
-- - **[Random Contacts Generator](https://github.com/saiaretinxt/random-contacts-generator)** — Generates realistic Indian contacts in bulk
-  - - **[OX Inventory Modified](https://github.com/saiaretinxt/ox-inventory-modified)** — Custom FiveM inventory system
+ - **[Random Contacts Generator](https://github.com/saiaretinxt/random-contacts-generator)** — Generates realistic Indian contacts in bulk
+  - **[OX Inventory Modified](https://github.com/saiaretinxt/ox-inventory-modified)** — Custom FiveM inventory system
    
-    - ---
-
+    
+---
     ## Connect With Me
 
     <div align="center">
