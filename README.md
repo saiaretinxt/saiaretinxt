@@ -8,11 +8,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Sai Areti
-location: Bhimavaram, Andhra Pradesh, India 🇮🇳
+location: Bhimavaram, Andhra Pradesh, India
 company: Creative Central
 role: Full-Stack Developer & Mobile Engineer
 experience: Building SaaS Products, Web Apps & Mobile Solutions
@@ -22,48 +22,48 @@ currently_working_on: Multiple SaaS & E-commerce Platforms
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🌐 Frontend & Web
+### Frontend & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 📱 Mobile
+### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎮 Game Scripting
+### Game Scripting
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 <div align="center">
 
-| 🛒 E-commerce & Retail | 💰 Fintech & Payments | 📱 Mobile Apps |
+| E-commerce & Retail | Fintech & Payments | Mobile Apps |
 |:---:|:---:|:---:|
 | SaaS Commerce Systems | Recharge Platforms | Flutter Applications |
 | Matrimony Platforms | Crypto Trackers | POS Systems |
 | Garments & Jewellery Stores | Lottery & Betting Apps | Delivery Apps |
 
-| 🌐 Web Platforms | 🎮 FiveM Scripts | 📝 Content Platforms |
+| Web Platforms | FiveM Scripts | Content Platforms |
 |:---:|:---:|:---:|
 | ERP Systems | Custom HUDs | Blog Systems |
 | Restaurant Management | Anticheat Systems | Course Platforms |
@@ -73,7 +73,7 @@ currently_working_on: Multiple SaaS & E-commerce Platforms
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,28 +83,32 @@ currently_working_on: Multiple SaaS & E-commerce Platforms
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiaretinxt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>div>
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=saiaretinxt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>div>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-- 🛍️ **[KartComet](https://github.com/saiaretinxt/kartcomet)** — A full-featured SaaS E-commerce System
-- - 🤖 **[Random Contacts Generator](https://github.com/saiaretinxt/random-contacts-generator)** — Generates realistic Indian contacts in bulk
-  - - 🔧 **[OX Inventory Modified](https://github.com/saiaretinxt/ox-inventory-modified)** — Custom FiveM inventory system
+- **[KartComet](https://github.com/saiaretinxt/kartcomet)** — A full-featured SaaS E-commerce System
+- - **[Random Contacts Generator](https://github.com/saiaretinxt/random-contacts-generator)** — Generates realistic Indian contacts in bulk
+  - - **[OX Inventory Modified](https://github.com/saiaretinxt/ox-inventory-modified)** — Custom FiveM inventory system
    
     - ---
 
-    ## 🤝 Connect With Me
+    ## Connect With Me
 
     <div align="center">
 
