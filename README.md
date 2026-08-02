@@ -13,7 +13,7 @@
 ```yaml
 name: Sai Areti
 location: Bhimavaram, Andhra Pradesh, India
-company: Creative Central
+company: NXTKRAFT SOLUTIONS (OPC) PRIVATE LIMITED
 role: Full-Stack Developer & Mobile Engineer
 experience: Building SaaS Products, Web Apps & Mobile Solutions
 passion: Turning ideas into production-ready software
