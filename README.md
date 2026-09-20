@@ -83,16 +83,6 @@ currently_working_on: Multiple SaaS & E-commerce Platforms
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saiaretinxt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
 ## Featured Projects
 
 - **[KartComet](https://github.com/saiaretinxt/kartcomet)** — A full-featured SaaS E-commerce System
